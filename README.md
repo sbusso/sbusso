@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi friends, I'm Stephane 👋
+
+I build software for the web and lead tech teams. Currently Head of Engineering at NFL
 
 <!--
 **sbusso/sbusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ![sbusso`s GitHub stats](https://github-readme-stats.vercel.app/api?username=sbusso&show_icons=true&theme=radical)
+
+## 📗 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+
+## 📘 Projects
