@@ -1,6 +1,6 @@
 # Hi friends, I'm Stephane 👋
 
-I build software for the web and lead tech teams. Currently Head of Engineering at NFL
+I build software for the modern internet. Currently learning exciting stuff and looking for new project opportunities.
 
 <!--
 **sbusso/sbusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
