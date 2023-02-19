@@ -1,6 +1,6 @@
-# Hey friends, 👋
+# Hey there, 👋
 
-I build software for the modern internet. Currently learning exciting stuff and looking for new project opportunities.
+Thanks for visiting my profile. I build software for the modern internet. Currently learning exciting stuff and looking for new project opportunities.
 
 <!--
 **sbusso/sbusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
