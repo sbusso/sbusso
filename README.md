@@ -1,4 +1,4 @@
-# Hi friends, I'm Stephane 👋
+# Hey friends, 👋
 
 I build software for the modern internet. Currently learning exciting stuff and looking for new project opportunities.
 
