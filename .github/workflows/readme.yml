@@ -4,7 +4,9 @@ on:
   push:
   schedule:
     - cron: "3 1 * * *"
-
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   markscribe:
     runs-on: ubuntu-latest
