@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/sbusso/sbusso/main/github-metrics.svg)
+
 ![sbusso`s GitHub stats](https://github-readme-stats.vercel.app/api?username=sbusso&show_icons=true&theme=radical)
 
 ## 📗 Blog Posts
