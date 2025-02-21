@@ -1,6 +1,6 @@
 # Hey there, 👋
 
-I build software for the modern world, accelerating businesses with Intelligent Automation.
+I build software for the modern world, empowering businesses with Intelligent Automation.
 
 ![](https://raw.githubusercontent.com/sbusso/sbusso/main/github-metrics.svg)
 
