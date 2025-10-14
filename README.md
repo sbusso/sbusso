@@ -22,9 +22,11 @@ I build software for the modern world, empowering businesses with Intelligent Au
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Container orchestration
 - [Portainer](https://www.portainer.io/) - Container management UI
 - [Caddy](https://caddyserver.com/) - Docker proxy & automatic HTTPS
-- [Coolify](https://coolify.io/) - Self-hosted PaaS (experimenting)
+- [Railway](https://railway.com/) - The easiest app deployment/hosting since Heroku
 - [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
-- [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS
+- [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS, workers
+
+Current trend Docker Swarm / Caddy -> Railway / Cloudflare Workers
 
 ## Observability
 - [OpenTelemetry](https://opentelemetry.io/) - Observability framework
