@@ -19,12 +19,14 @@ I build software for the modern world, empowering businesses with Intelligent Au
 - [PostgreSQL](https://www.postgresql.org/) - Rock-solid relational database (20+ years experience)
 
 ## DevOps & Infrastructure
+- [Railway](https://railway.com/) - The easiest app deployment/hosting since Heroku
+- [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS, workers
+
+### Legacy
+- [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
 - [Docker Swarm](https://docs.docker.com/engine/swarm/) - Container orchestration
 - [Portainer](https://www.portainer.io/) - Container management UI
 - [Caddy](https://caddyserver.com/) - Docker proxy & automatic HTTPS
-- [Railway](https://railway.com/) - The easiest app deployment/hosting since Heroku
-- [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
-- [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS, workers
 
 Current trend Docker Swarm / Caddy -> Railway / Cloudflare Workers
 
