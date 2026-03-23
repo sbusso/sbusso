@@ -2,6 +2,24 @@
 
 I build software for the modern world, empowering businesses with Intelligent Automation. Building AI Agents at [Kyrolabs AI](https://kyrolabs.com) since 2022.
 
+<table>
+<tr>
+<td>
+
+### 🦀 [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Always-On AI Agent Orchestrator
+
+Claude Code plugin that runs Claude as a persistent agent on your messaging channels (Slack, WhatsApp, Telegram). OS-level sandbox isolation, structured memory, webhook triggers, composable extensions.
+
+```bash
+git clone https://github.com/sbusso/claudeclaw && cd claudeclaw && claude
+```
+
+[![GitHub Stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=flat)](https://github.com/sbusso/claudeclaw) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbusso/claudeclaw/blob/main/LICENSE)
+
+</td>
+</tr>
+</table>
+
 # 🚀 My Tech Stack
 
 ## Frontend
