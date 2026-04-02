@@ -1,6 +1,6 @@
 # Hey there, 👋
 
-I build software for the modern world, empowering businesses with Intelligent Automation. Building AI Agents at [Kyrolabs AI](https://kyrolabs.com) since 2022.
+I build software for the modern world, empowering businesses with Intelligent Automation. Building AI Agents since late 2022.
 
 <table>
 <tr>
