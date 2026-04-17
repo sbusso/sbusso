@@ -42,7 +42,6 @@ git clone https://github.com/sbusso/claudeclaw && cd claudeclaw && claude
 
 ### Legacy
 - [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
-- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Container orchestration
 - [Portainer](https://www.portainer.io/) - Container management UI
 - [Caddy](https://caddyserver.com/) - Docker proxy & automatic HTTPS
 
