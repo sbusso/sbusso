@@ -6,15 +6,11 @@ I build software for the modern world, empowering businesses with Intelligent Au
 <tr>
 <td>
 
-### 🦀 [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Always-On AI Agent Orchestrator
+### 🔭 [GH Watch](https://ghwatch.htdocs.dev/) — Rising GitHub Repositories by Star Velocity
 
-Claude Code plugin that runs Claude as a persistent agent on your messaging channels (Slack, WhatsApp, Telegram). OS-level sandbox isolation, structured memory, webhook triggers, composable extensions.
+Discover new and rising GitHub repositories ranked by how quickly they gain stars. Browse direct links with no ads or proxies, and follow updates via RSS.
 
-```bash
-git clone https://github.com/sbusso/claudeclaw && cd claudeclaw && claude
-```
-
-[![GitHub Stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=flat)](https://github.com/sbusso/claudeclaw) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sbusso/claudeclaw/blob/main/LICENSE)
+[Explore GH Watch →](https://ghwatch.htdocs.dev/)
 
 </td>
 </tr>
