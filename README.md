@@ -18,6 +18,8 @@ Discover new and rising GitHub repositories ranked by how quickly they gain star
 
 # 🚀 My Tech Stack
 
+Preferred stack from pre-2026, nowadays, anything AI can code.
+
 ## Frontend
 - [Astro](https://astro.build/) - For static & non-private dynamic sites with:
   - [React](https://reactjs.org/) - Component library
@@ -26,19 +28,17 @@ Discover new and rising GitHub repositories ranked by how quickly they gain star
 - [TanStack Router](https://tanstack.com/router) - Type-safe routing for apps
 
 ## Backend
-- [Go (Golang)](https://golang.org/) with [Echo](https://echo.labstack.com/) - High-performance web framework
 - [Python](https://www.python.org/) with [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast API framework
+- [Go (Golang)](https://golang.org/) with [Echo](https://echo.labstack.com/) - High-performance web framework
 
 ## Database
 - [PostgreSQL](https://www.postgresql.org/) - Rock-solid relational database (20+ years experience)
 
 ## DevOps & Infrastructure
-- [Railway](https://railway.com/) - The easiest app deployment/hosting since Heroku
 - [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS, workers
 
 ### Legacy
 - [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
-- [Portainer](https://www.portainer.io/) - Container management UI
 - [Caddy](https://caddyserver.com/) - Docker proxy & automatic HTTPS
 
 Current trend Docker Swarm / Caddy -> Railway / Cloudflare Workers
